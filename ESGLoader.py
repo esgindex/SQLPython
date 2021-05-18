@@ -8,7 +8,7 @@ Created on Sat Sep 21 22:06:10 2019
 
 
 
-@author: margaritaprokhodko
+@author:
 
 """
 
